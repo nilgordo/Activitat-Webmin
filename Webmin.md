@@ -18,6 +18,13 @@
 **Fer tot des de webmin**
 
 - Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
+  ![image](https://github.com/user-attachments/assets/3807a18b-1842-4223-91ca-6de4e3e63930)
+  ![image](https://github.com/user-attachments/assets/ec82faa1-13ae-4fe2-a6d6-77360cf1594b)
+  ![image](https://github.com/user-attachments/assets/5703a5d3-d797-4b5f-abc4-231fc206f95a)
+
+
+
+
 - Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
 - Cada usuari tindrà un directori a home igual al seu nom d'usuari.
 - Utilitzaran bash com a shell.
