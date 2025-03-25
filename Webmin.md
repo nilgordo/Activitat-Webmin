@@ -44,6 +44,7 @@
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
 - Utilitza webmin per mostrar els serveis que estan actius.
+- ----------------------------------------------------------------------
 - Utilitza webmin per mostrar l'estat del servidor Apache.
 - Utilitza webmin per aturar Apache.
 - Utilitza webmin per mostrar l'estat del servidor Apache apagat.
