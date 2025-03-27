@@ -40,6 +40,14 @@
 
 
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
+  Creem el grup de bakalao_Gordo i techno_Gordo i usuaris_empresa
+  ![image](https://github.com/user-attachments/assets/dba47e45-9479-4eda-b82e-772c59845e87)
+
+  ![image](https://github.com/user-attachments/assets/68e97669-1928-4ec0-ac5f-37e8781c547b)
+
+  ![image](https://github.com/user-attachments/assets/2ddc1536-78bd-47ea-8213-aeb8d1dfb557)
+  Li donem a Guardar
+  
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
 - Comproveu que els usuaris poden iniciar sessió.
 - Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
