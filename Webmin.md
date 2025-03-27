@@ -45,6 +45,9 @@
 
   ![image](https://github.com/user-attachments/assets/68e97669-1928-4ec0-ac5f-37e8781c547b)
 
+  ![image](https://github.com/user-attachments/assets/d404dc05-830b-4751-965a-22b6bbca0659)
+
+  Entrem a l'usuaris i canviem els seus grups
   ![image](https://github.com/user-attachments/assets/2ddc1536-78bd-47ea-8213-aeb8d1dfb557)
   Li donem a Guardar
   
