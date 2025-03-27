@@ -76,6 +76,13 @@
 ## 2.- Programar tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
+  ![image](https://github.com/user-attachments/assets/8d022e6b-0f7d-45a1-abef-9e8c0fbc6382)
+
+  ![image](https://github.com/user-attachments/assets/ba91df12-4094-4aa6-9455-49582958dbf6)
+
+  Baixem i li donem a Crear
+
+
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
   
