@@ -22,10 +22,10 @@
   ![image](https://github.com/user-attachments/assets/ec82faa1-13ae-4fe2-a6d6-77360cf1594b)
   ![image](https://github.com/user-attachments/assets/5703a5d3-d797-4b5f-abc4-231fc206f95a)
 
-
-
-
 - Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
+  ![image](https://github.com/user-attachments/assets/9a463782-ac0c-4dc4-a954-d50863f04f47)
+  ![image](https://github.com/user-attachments/assets/996b9748-4169-4a7c-a68c-de32d7698555)
+
 - Cada usuari tindrà un directori a home igual al seu nom d'usuari.
 - Utilitzaran bash com a shell.
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
