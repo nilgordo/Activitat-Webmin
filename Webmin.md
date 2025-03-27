@@ -19,9 +19,9 @@
 
 - Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
   ![image](https://github.com/user-attachments/assets/bec525cc-790f-47fa-b56a-3f6f322eff41)
-  ![image](https://github.com/user-attachments/assets/3ff04ab9-3b86-48f4-97dc-a114f6b7f496)
+  ![image](https://github.com/user-attachments/assets/9d10e6e8-da20-43d8-8f33-6ff5dfb3a540)
   Baixem i donem a Crear
-  ![image](https://github.com/user-attachments/assets/9fe119c3-943a-47f0-b3f4-f3644a1eaef7)
+  ![image](https://github.com/user-attachments/assets/fafb4c54-f2f3-4d69-b975-d6fbf02caf5e)
   Baixem i donem a Crear
   
 - Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
