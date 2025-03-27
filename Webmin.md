@@ -78,12 +78,16 @@
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
   ![image](https://github.com/user-attachments/assets/8d022e6b-0f7d-45a1-abef-9e8c0fbc6382)
 
-  ![image](https://github.com/user-attachments/assets/ba91df12-4094-4aa6-9455-49582958dbf6)
+  ![image](https://github.com/user-attachments/assets/b0c692fb-e804-4de9-af68-f5c06ea297c4)
 
   Baixem i li donem a Crear
 
 
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
+  ![image](https://github.com/user-attachments/assets/bb645060-b7d5-4ffd-9e54-b80c8bb38b54)
+
+    Baixem i li donem a Crear
+
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
   
 ## 3.- Instal·lació de software
