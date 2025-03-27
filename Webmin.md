@@ -49,6 +49,8 @@
 
   Entrem a l'usuaris i canviem els seus grups
   ![image](https://github.com/user-attachments/assets/2ddc1536-78bd-47ea-8213-aeb8d1dfb557)
+  ![image](https://github.com/user-attachments/assets/25a705bf-34f8-4ef4-8221-36178a6ccda9)
+
   Li donem a Guardar
   
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
