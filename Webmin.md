@@ -35,7 +35,7 @@
 - Utilitzaran bash com a shell.
   ![image](https://github.com/user-attachments/assets/2124cb79-9f56-4c26-861c-5c1a834004e9)
   Baixem i donem a Guardar
-  ![image](https://github.com/user-attachments/assets/bdd7f94a-d749-4ea0-b75d-ad8bd1120dbc)
+  ![image](https://github.com/user-attachments/assets/cf6d7b0e-773c-492a-8e77-3d4b783926f1)
   Baixem i donem a Guardar
 
 
