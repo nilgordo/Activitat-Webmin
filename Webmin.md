@@ -54,6 +54,8 @@
   Li donem a Guardar
   
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
+  ![image](https://github.com/user-attachments/assets/3803868b-02fb-4c3c-8ac1-c1bd9ce8d8bf)
+
 - Comproveu que els usuaris poden iniciar sessió.
 - Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
 
