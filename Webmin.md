@@ -64,6 +64,14 @@
   ![image](https://github.com/user-attachments/assets/5f4ecb4a-02dd-42ad-b955-259bce1f1246)
 
 - Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
+  ![image](https://github.com/user-attachments/assets/3e00626c-dbe1-4c7e-91e6-9690933fd056)
+
+  ![image](https://github.com/user-attachments/assets/eae9ca41-93f4-40c7-b9a4-4ba6440d5c18)
+
+  ![image](https://github.com/user-attachments/assets/819c4fe8-f749-43bc-9326-34e7802e8fd8)
+
+  ![Uploading image.png…]()
+
 
 ## 2.- Programar tasques
 
