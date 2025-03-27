@@ -70,7 +70,7 @@
 
   ![image](https://github.com/user-attachments/assets/819c4fe8-f749-43bc-9326-34e7802e8fd8)
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/cfe20f85-7e4d-4bad-ab30-65d95b07acf2)
 
 
 ## 2.- Programar tasques
