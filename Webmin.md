@@ -84,9 +84,9 @@
 
 
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/ab41ec04-efc1-431f-92e6-6fda981bc9c4)
 
-    Baixem i li donem a Crear
+  Baixem i li donem a Crear
 
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
   
