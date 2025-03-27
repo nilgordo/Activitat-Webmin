@@ -84,7 +84,7 @@
 
 
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
-  ![image](https://github.com/user-attachments/assets/bb645060-b7d5-4ffd-9e54-b80c8bb38b54)
+  ![image](https://github.com/user-attachments/assets/98fdfdf3-7407-41e1-a0e7-15e17a63816f)
 
     Baixem i li donem a Crear
 
