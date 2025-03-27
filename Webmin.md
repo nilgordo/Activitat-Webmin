@@ -18,16 +18,27 @@
 **Fer tot des de webmin**
 
 - Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
-  ![image](https://github.com/user-attachments/assets/3807a18b-1842-4223-91ca-6de4e3e63930)
-  ![image](https://github.com/user-attachments/assets/ec82faa1-13ae-4fe2-a6d6-77360cf1594b)
-  ![image](https://github.com/user-attachments/assets/5703a5d3-d797-4b5f-abc4-231fc206f95a)
-
+  ![image](https://github.com/user-attachments/assets/bec525cc-790f-47fa-b56a-3f6f322eff41)
+  ![image](https://github.com/user-attachments/assets/3ff04ab9-3b86-48f4-97dc-a114f6b7f496)
+  Baixem i donem a Crear
+  ![image](https://github.com/user-attachments/assets/9fe119c3-943a-47f0-b3f4-f3644a1eaef7)
+  Baixem i donem a Crear
+  
 - Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
   ![image](https://github.com/user-attachments/assets/9a463782-ac0c-4dc4-a954-d50863f04f47)
   ![image](https://github.com/user-attachments/assets/996b9748-4169-4a7c-a68c-de32d7698555)
 
 - Cada usuari tindrà un directori a home igual al seu nom d'usuari.
+  ![image](https://github.com/user-attachments/assets/f8c69151-50d1-48ed-bba6-9961234c6efb)
+  Fet automaticament en el procees de creació de l'usuari
+  
 - Utilitzaran bash com a shell.
+  ![image](https://github.com/user-attachments/assets/2124cb79-9f56-4c26-861c-5c1a834004e9)
+  Baixem i donem a Guardar
+  ![image](https://github.com/user-attachments/assets/bdd7f94a-d749-4ea0-b75d-ad8bd1120dbc)
+  Baixem i donem a Guardar
+
+
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
 - Comproveu que els usuaris poden iniciar sessió.
