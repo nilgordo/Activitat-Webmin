@@ -135,6 +135,11 @@
   Fem click a Search for package
   ![image](https://github.com/user-attachments/assets/e3fb9b18-f6ad-488f-9182-ed23a8010b13)
   Li donem a Uninstall
+  ![image](https://github.com/user-attachments/assets/d8164a50-75c0-44a6-9f7f-ddadabafd299)
+  Li donem a Delete
+  I ja no el tenim instalat
+  ![image](https://github.com/user-attachments/assets/4847571a-5f69-41a4-8f85-6073c3ce710e)
+
   
 ## 4.- Serveis
 
