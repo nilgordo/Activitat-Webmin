@@ -116,12 +116,26 @@
   Li donem a Install now
   ![image](https://github.com/user-attachments/assets/91b78d9a-22e8-463a-8723-fc591c3ea75a)
   Ja estaria instal·lat
+  ![image](https://github.com/user-attachments/assets/87aa3973-c6c4-46dc-b0a1-efbdc5687fe4)
 
 
-  sudo apt install nsnake
 - Utilitza webmin per instal·lar gimp de apt.
-- Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
+  ![image](https://github.com/user-attachments/assets/7d89862f-c5ff-443b-9edb-f2027d11187f)
+  Introduïm gimp a Package from APT i li donem a Install
+  ![image](https://github.com/user-attachments/assets/37566ef6-8f2d-4c5b-968a-2a63bb8b4776)
+  Li donem a install now
+  ![image](https://github.com/user-attachments/assets/1b4d10da-ace9-4409-9f91-fb9ade781f53)
+  Ja tenim el gimp instalat
+  ![image](https://github.com/user-attachments/assets/04412cd1-c759-48d5-8c18-10975a57b099)
 
+- Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
+  ![image](https://github.com/user-attachments/assets/04b26cfe-7279-4904-9449-3ad5be236998)
+  Introduïm nsnake al search for package
+  ![image](https://github.com/user-attachments/assets/183425ef-e361-4ff6-9798-b0d421b2dc17)
+  Fem click a Search for package
+  ![image](https://github.com/user-attachments/assets/e3fb9b18-f6ad-488f-9182-ed23a8010b13)
+  Li donem a Uninstall
+  
 ## 4.- Serveis
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
