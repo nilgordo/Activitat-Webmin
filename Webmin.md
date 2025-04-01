@@ -149,6 +149,7 @@
   I en aquest apartat tots els serveis que fica Start at boot? Yes, vol dir que s'inicien amb el sistema, si baixem podem veure més serveis
   
 - Utilitza webmin per mostrar els serveis que estan actius.
+  
   Desde el mateix apartat podem veure els serveis actius, si mirem la columna de Service Status
   ![image](https://github.com/user-attachments/assets/9937f3ee-9d7c-4d1e-9768-6a4c80e56933)
 
