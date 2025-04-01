@@ -89,10 +89,13 @@
   Baixem i li donem a Crear
 
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
-  
+  ![image](https://github.com/user-attachments/assets/ef9f69b1-8031-42eb-8d66-caaecc010f1b)
+
 ## 3.- Instal·lació de software
 
 - Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
+  ![image](https://github.com/user-attachments/assets/608fa2a9-1ce4-4b68-abfe-531f8b8cd6ab)
+
 - Des de webmin actualitza un paquet.
 - Utilitza webmin per instal·lar un joc de apt.
 - Utilitza webmin per instal·lar gimp de apt.
