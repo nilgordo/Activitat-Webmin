@@ -1,4 +1,4 @@
-# Utilitzant webmin per administrar el servidor
+![image](https://github.com/user-attachments/assets/f187e51f-d15e-4c16-869b-78b9bd4fbf92)# Utilitzant webmin per administrar el servidor
 
 - Entregueu link a un repositori **públic** (un link per alumne) de Github on feu les següents tasques.
 - Expliqueu el que feu amb text i captures.
@@ -95,8 +95,16 @@
 
 - Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
   ![image](https://github.com/user-attachments/assets/608fa2a9-1ce4-4b68-abfe-531f8b8cd6ab)
+  ![image](https://github.com/user-attachments/assets/06248580-1d38-4ef6-b257-e06e1d5b6a5f)
 
 - Des de webmin actualitza un paquet.
+  ![image](https://github.com/user-attachments/assets/410cc604-8cdb-45e8-a281-8b7688d15d87)
+  Seleccionem un paquet en aquest cas el acl i li donem a Update Select packages
+  ![image](https://github.com/user-attachments/assets/79580d08-688e-4f45-8c52-93e705122251)
+  Li donem a install now
+  ![image](https://github.com/user-attachments/assets/9ea29b6e-a8e3-456a-b84d-5284e1507a6b)
+  Ja tindriem el paquet actualitzat
+
 - Utilitza webmin per instal·lar un joc de apt.
 - Utilitza webmin per instal·lar gimp de apt.
 - Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
