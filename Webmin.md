@@ -104,7 +104,6 @@
   Li donem a install now
   ![image](https://github.com/user-attachments/assets/9ea29b6e-a8e3-456a-b84d-5284e1507a6b)
   Ja tindriem el paquet actualitzat
-  ![image](https://github.com/user-attachments/assets/f187e51f-d15e-4c16-869b-78b9bd4fbf92)
 
 - Utilitza webmin per instal·lar un joc de apt.
 - Utilitza webmin per instal·lar gimp de apt.
