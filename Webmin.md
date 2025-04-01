@@ -106,6 +106,19 @@
   Ja tindriem el paquet actualitzat
 
 - Utilitza webmin per instal·lar un joc de apt.
+  ![image](https://github.com/user-attachments/assets/7e57f64d-4d24-46fd-ad53-137e7ba8ec33)
+  Anem a Software packages i anem a install a new package
+  ![image](https://github.com/user-attachments/assets/ab5bee77-88f5-4688-9585-8d995178fdc5)
+  Li donem a Package from APT
+  ![image](https://github.com/user-attachments/assets/a0e71763-fe7c-4d4d-9090-9c6066b98e9e)
+  Introduim nsnake a Package from APT i li donem a Install
+  ![image](https://github.com/user-attachments/assets/397ffacc-9b96-4dc6-bd2f-2524e69a3063)
+  Li donem a Install now
+  ![image](https://github.com/user-attachments/assets/91b78d9a-22e8-463a-8723-fc591c3ea75a)
+  Ja estaria instal·lat
+
+
+  sudo apt install nsnake
 - Utilitza webmin per instal·lar gimp de apt.
 - Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
 
