@@ -1,4 +1,4 @@
-# Utilitzant webmin per administrar el servidor
+![image](https://github.com/user-attachments/assets/8f71b691-ef15-4278-beb2-6f3ec7dadf3b)# Utilitzant webmin per administrar el servidor
 
 - Entregueu link a un repositori **públic** (un link per alumne) de Github on feu les següents tasques.
 - Expliqueu el que feu amb text i captures.
@@ -185,5 +185,26 @@ sudo apt install quota quotatool
 ## 7.- Compartició
 
 - Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "area_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
+  ![image](https://github.com/user-attachments/assets/04f4eef4-7ed2-464e-8893-59ba1ae4f14f)
+  ![image](https://github.com/user-attachments/assets/60325078-eabb-4b62-b290-bbd9b960f384)
+  ![image](https://github.com/user-attachments/assets/f2c4dc6a-5176-4f26-8def-d51ebf0e25d5)
+  ![image](https://github.com/user-attachments/assets/cc26bab7-df3a-41a0-9517-edea7823afb2)
+
+  ![image](https://github.com/user-attachments/assets/c87071b4-9630-4eb6-9daf-752503c05352)
+
+  ![image](https://github.com/user-attachments/assets/3680530b-2f3d-42fa-acd1-dd00a6ce2d2d)
+  I li donem a Save
+
+  ![image](https://github.com/user-attachments/assets/ab8966f2-0447-4ca5-b98d-b751ec55a328)
+
+  ![image](https://github.com/user-attachments/assets/7723f25f-b19d-441f-8232-b6f1c42260fe)
+
+  ![image](https://github.com/user-attachments/assets/1f6b51ed-6182-44a3-b0ef-220f3bc1c023)
+
+
+
+
+
+
 - Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura.
 - Comprovar des de Windows que aquests recursos funcionen.
