@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8f71b691-ef15-4278-beb2-6f3ec7dadf3b)# Utilitzant webmin per administrar el servidor
+# Utilitzant webmin per administrar el servidor
 
 - Entregueu link a un repositori **públic** (un link per alumne) de Github on feu les següents tasques.
 - Expliqueu el que feu amb text i captures.
