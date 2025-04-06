@@ -230,5 +230,10 @@ sudo apt install quota quotatool
 
   ![image](https://github.com/user-attachments/assets/95d8d90d-9997-42c0-89f8-fc74de5427bf)
 
+  ![image](https://github.com/user-attachments/assets/f2e28a07-82aa-4b8d-9a4a-afbac14bd27d)
+
   ![image](https://github.com/user-attachments/assets/3bfc573d-2a46-4f0f-9b47-4618cea7242a)
+
+  ![image](https://github.com/user-attachments/assets/b2e87223-9f7b-4219-814b-a89fc6e0a03f)
+
 
