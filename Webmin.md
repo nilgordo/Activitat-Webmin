@@ -18,12 +18,12 @@
 # Índex
   
 * [1.- Crear i modificar usuaris](#1)
-* [ 2.- Programar tasques](#2)
+* [2.- Programar tasques](#2)
 * [3.- Instal·lació de software](#3)
 * [4.- Serveis](#4)
-* [ 5.- Quotes de disc](#5)
-* [ ](#6)
-* [](#7)
+* [5.- Quotes de disc](#5)
+* [6.- Còpies de seguretat](#6)
+* [7.- Compartició](#7)
 
 
 
