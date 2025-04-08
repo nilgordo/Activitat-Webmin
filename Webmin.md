@@ -1,5 +1,3 @@
-# Utilitzant webmin per administrar el servidor
-
 - Entregueu link a un repositori **públic** (un link per alumne) de Github on feu les següents tasques.
 - Expliqueu el que feu amb text i captures.
 - **Fer tot des de webmin**
@@ -12,6 +10,25 @@
   - 1.5 punt - Exercici 5.
   - 1.5 punt - Exercici 6.
   - 1 punt - Exercici 7.
+
+
+# Utilitzant webmin per administrar el servidor
+![image](https://github.com/user-attachments/assets/382a9ff1-7b10-42d5-b3ef-ec1571905910)
+
+# Índex
+  
+* [1.- Crear i modificar usuaris](#1)
+* [ 2.- Programar tasques](#2)
+* [3.- Instal·lació de software](#3)
+* [4.- Serveis](#4)
+* [ 5.- Quotes de disc](#5)
+* [ ](#6)
+* [](#7)
+
+
+
+
+<a id="1"> </a>
 
 ## 1.- Crear i modificar usuaris
 
@@ -73,6 +90,7 @@
   ![image](https://github.com/user-attachments/assets/cfe20f85-7e4d-4bad-ab30-65d95b07acf2)
 
 
+<a id="2"> </a>
 ## 2.- Programar tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
@@ -90,6 +108,9 @@
 
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
   ![image](https://github.com/user-attachments/assets/ef9f69b1-8031-42eb-8d66-caaecc010f1b)
+
+
+  <a id="3"> </a>
 
 ## 3.- Instal·lació de software
 
@@ -140,6 +161,7 @@
   I ja no el tenim instalat
   ![image](https://github.com/user-attachments/assets/4847571a-5f69-41a4-8f85-6073c3ce710e)
 
+<a id="4"> </a>
   
 ## 4.- Serveis
 
@@ -183,6 +205,8 @@
 
   ![image](https://github.com/user-attachments/assets/f35f2a46-15ea-49dd-90a4-ed826cbc20a1)
 
+  <a id="5"> </a>
+
 ## 5.- Quotes de disc
 
 Activa les quotes de disc pels usuaris amb la comanda: 
@@ -207,6 +231,8 @@ sudo apt install quota quotatool
 - Comprova que el límit de la quota funciona.
 
   ![image](https://github.com/user-attachments/assets/0dbdf0c4-3201-45af-b7be-f14965d4c634)
+
+  <a id="6"> </a>
 
 ## 6.- Còpies de seguretat
 
@@ -235,6 +261,8 @@ sudo apt install quota quotatool
   ![image](https://github.com/user-attachments/assets/7f78889e-e159-495f-b511-debde9d4e2e2)
 
   ![image](https://github.com/user-attachments/assets/7d1425d8-185d-4e6e-8ce6-8c6144ba3418)
+
+    <a id="7"> </a>
 
 ## 7.- Compartició
 
