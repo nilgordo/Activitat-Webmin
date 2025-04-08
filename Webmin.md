@@ -1,4 +1,4 @@
-# Utilitzant webmin per administrar el servidor
+# Ús de webmin per administrar el servidor
 ![image](https://github.com/user-attachments/assets/382a9ff1-7b10-42d5-b3ef-ec1571905910)
 
 # Índex
